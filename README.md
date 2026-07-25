@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kevin Le 👋</h1>
+<h1 align="center">Kevin Le</h1>
 
 <p align="center">
   <b>Software Engineer</b>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i>I build things for the web, iPhone, and the blockchain — and I run on an unreasonable amount of coffee. ☕</i>
+  <i>I build software for the web, iOS, and blockchain.</i>
 </p>
 
 <p align="center">
@@ -19,28 +19,26 @@
   <a href="mailto:kevinle3212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/kevinle3212"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://x.com/kevinle3212"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.oregonblockchain.org/"><img src="https://img.shields.io/badge/Oregon_Blockchain_Group-004AAD?style=for-the-badge&logo=ethereum&logoColor=white" alt="OBG"/></a>
 </p>
 
 ---
 
-### 👋 A little about me
+### About Me
 
-- 🦆 &nbsp;<b>Computer Science &amp; Data Science</b> student at the <a href="https://www.uoregon.edu/">University of Oregon</a>.
-- ⛓️ &nbsp;<b>Software Engineer</b> at the <a href="https://www.oregonblockchain.org/">Oregon Blockchain Group</a> — the nation's first student-led blockchain org, based out of the Lundquist College of Business.
-- 🛠️ &nbsp;I like taking a messy problem and turning it into something clean and auditable — whether that's an escrow contract, an accessibility app, or a data pipeline.
-- ☕ &nbsp;Certified coffee &amp; caffeine connoisseur. If I'm building something, there's a cortado (or three) involved. Ask me about pour-over ratios at your own risk.
-- 💬 &nbsp;Always down to talk crypto, on-device AI, or where to find the best espresso in Eugene.
+- <b>Computer Science and Data Science</b> student at the <a href="https://www.uoregon.edu/">University of Oregon</a>.
+- <b>Software Engineer</b> at the <a href="https://www.oregonblockchain.org/">Oregon Blockchain Group</a>, the University of Oregon's premier blockchain group, based out of the Charles H. Lundquist College of Business.
+- I focus on turning complex problems into clean, auditable systems, whether an escrow contract, an accessibility app, or a data pipeline.
+- Any messages, collaborations, or opportunities are welcome via email, DM, or a message on any of my platforms.
 
 ---
 
-### 🚀 Projects I'm proud of
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/kevinle3212/TrustLedger">TrustLedger</a> &nbsp;<sub>✅ live on Sepolia</sub></h3>
-      <p>A Solidity smart-contract system for secure <b>escrow-based transactions</b>. It started on Ethereum and now handles <b>SOL &amp; USDC</b>, with <b>commit–reveal arbitration</b>, <b>Chainlink VRF</b> juror selection, and <b>on-chain reputation</b>. Basically: two strangers can transact and neither has to trust the other — the contract handles it.</p>
+      <h3><a href="https://github.com/kevinle3212/TrustLedger">TrustLedger</a> &nbsp;<sub>Live on Sepolia</sub></h3>
+      <p>A Solidity smart-contract system for secure <b>escrow-based transactions</b>. It began on Ethereum and now supports <b>SOL and USDC</b>, with <b>commit-reveal arbitration</b>, <b>Chainlink VRF</b> juror selection, and <b>on-chain reputation</b>. Two parties can transact without trusting each other, because the contract enforces the terms.</p>
       <p>
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -48,8 +46,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🦯 <a href="https://github.com/kevinle3212/sensebridge">SenseBridge</a> &nbsp;<sub>🚧 what I'm building right now</sub></h3>
-      <p>A free, open-source, <b>privacy-first iPhone accessibility app</b> for blind and low-vision users. It turns your surroundings into clear speech and does it all <b>on-device by default</b> — your camera feed never leaves your phone. The current focus, and the project I most want to get right.</p>
+      <h3><a href="https://github.com/kevinle3212/sensebridge">SenseBridge</a> &nbsp;<sub>In active development</sub></h3>
+      <p>A free, open-source, <b>privacy-first iOS accessibility app</b> for blind and low-vision users. It converts the user's surroundings into clear speech, entirely <b>on-device by default</b>, so the camera feed never leaves the phone. This is my current primary focus.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift"/>
         <img src="https://img.shields.io/badge/On--Device_AI-4B4B4B?style=flat&logo=apple&logoColor=white" alt="On-device AI"/>
@@ -59,16 +57,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/kevinle3212/DepositGuard">DepositGuard</a> &nbsp;<sub>🏆 hackathon build</sub></h3>
-      <p>Trustless rental <b>security-deposit escrow on Solana</b>, with AI-assisted damage assessment so the deposit dispute isn't just landlord-said-tenant-said. Built for QuackHacks.</p>
+      <h3><a href="https://github.com/kevinle3212/DepositGuard">DepositGuard</a> &nbsp;<sub>Hackathon build</sub></h3>
+      <p>Trustless rental <b>security-deposit escrow on Solana</b>, with AI-assisted damage assessment to help resolve deposit disputes objectively. Built for QuackHacks.</p>
       <p>
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/kevinle3212/signal-chain">signal-chain</a> &nbsp;<sub>🔮 upcoming</sub></h3>
-      <p>A quant-research pipeline predicting 24h BTC/ETH direction from <b>social sentiment</b> (FinBERT + VADER), <b>on-chain whale flows</b>, and <b>XGBoost</b>, publishing a sentiment oracle to Sepolia. Still cooking — more to come.</p>
+      <h3><a href="https://github.com/kevinle3212/signal-chain">signal-chain</a> &nbsp;<sub>Upcoming</sub></h3>
+      <p>A quant-research pipeline that predicts 24-hour BTC and ETH direction from <b>social sentiment</b> (FinBERT and VADER), <b>on-chain whale flows</b>, and <b>XGBoost</b>, publishing a sentiment oracle to Sepolia. Currently in development.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/XGBoost-EB0C0C?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"/>
@@ -80,7 +78,7 @@
 
 ---
 
-### 🧰 My toolbox
+### Toolbox
 
 **Languages**
 
@@ -99,6 +97,7 @@
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Chains &amp; Web3**
@@ -107,12 +106,12 @@
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**AI Agent Stack** &nbsp;<sub>— how I actually get things built these days</sub>
+**AI Agent Stack**
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Wispr Flow](https://img.shields.io/badge/Wispr_Flow-6E56CF?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -120,7 +119,7 @@
 
 ---
 
-### 📊 By the numbers
+### By the Numbers
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinle3212&theme=tokyonight" alt="GitHub stats"/>
@@ -143,5 +142,5 @@
 ---
 
 <p align="center">
-  <i>Turning problems into possibilities, solutions, and creative innovations — one coffee at a time.</i> ☕
+  <i>Turning problems into solutions, one project at a time.</i>
 </p>
