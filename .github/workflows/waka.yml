@@ -1,0 +1,40 @@
+name: waka-readme
+
+# Refreshes the WakaTime coding breakdown between the
+# <!--START_SECTION:waka--> / <!--END_SECTION:waka--> markers in README.md.
+# Runs only from the default branch (schedule/dispatch), so it takes effect
+# after this branch is merged to main.
+
+on:
+  schedule:
+    - cron: "30 12 * * *" # daily at 12:30 UTC
+  workflow_dispatch: {}
+
+# Least privilege: the action commits the refreshed README; nothing else.
+permissions:
+  contents: write
+
+# Never let two refreshes race on the same README.
+concurrency:
+  group: waka-readme
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    name: Update WakaTime stats
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Update README with WakaTime stats
+        # Pinned to v0.3.1 by full commit SHA (supply-chain hardening).
+        uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          LANG_COUNT: "8"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          STOP_AT_OTHER: "true"
+          COMMIT_MESSAGE: "chore(readme): refresh WakaTime coding stats"

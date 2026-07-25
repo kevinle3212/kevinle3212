@@ -147,6 +147,14 @@
 
 ---
 
+### Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+> Populated automatically from WakaTime once it has tracked coding activity.
+<!--END_SECTION:waka-->
+
+---
+
 <p align="center">
   <i>Turning problems into solutions, one project at a time.</i>
 </p>
