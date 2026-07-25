@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i>I build software for the web, iOS, and blockchain.</i>
+  <i>I build full-stack software applications and also larp too much during the process.</i>
 </p>
 
 <p align="center">
@@ -19,6 +19,12 @@
   <a href="mailto:kevinle3212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/kevinle3212"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://x.com/kevinle3212"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_opportunities-2EA043?style=flat" alt="Open to opportunities"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kevinle3212&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
