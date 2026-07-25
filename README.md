@@ -150,7 +150,15 @@
 ### Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
-> Populated automatically from WakaTime once it has tracked coding activity.
+
+```txt
+From: 18 July 2026 - To: 25 July 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
