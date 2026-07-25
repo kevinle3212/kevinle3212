@@ -123,8 +123,13 @@
 ### 📊 By the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevinle3212&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Kevin's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinle3212&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinle3212&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinle3212&theme=tokyonight" alt="Top languages by repo"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinle3212&theme=tokyonight" alt="Most-used languages by commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kevinle3212&theme=tokyonight&utcOffset=-7" alt="Productive time"/>
 </p>
 
 <p align="center">
@@ -133,10 +138,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinle3212&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinle3212&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 </p>
 
 ---
