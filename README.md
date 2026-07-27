@@ -152,14 +152,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2026 - To: 26 July 2026
+From: 20 July 2026 - To: 27 July 2026
 
-Total Time: 23 hrs 15 mins
+Total Time: 24 hrs
 
-Markdown      11 hrs 50 mins  ████████████░░░░░░░░░░░░░   47.48 %
-JSON          2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Astro         2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Other         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Markdown      12 hrs 20 mins  ███████████▒░░░░░░░░░░░░░   45.80 %
+Other         2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 ```
 
 <!--END_SECTION:waka-->
