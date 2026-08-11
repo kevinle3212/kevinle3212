@@ -152,12 +152,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2026 - To: 10 August 2026
+From: 04 August 2026 - To: 11 August 2026
 
-Total Time: 21 hrs 20 mins
+Total Time: 19 hrs 16 mins
 
-Markdown      11 hrs 7 mins   ██████████░░░░░░░░░░░░░░░   39.86 %
-Other         6 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+Markdown      9 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   37.70 %
+Other         6 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
 ```
 
 <!--END_SECTION:waka-->
