@@ -152,13 +152,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2026 - To: 05 September 2026
+From: 30 August 2026 - To: 06 September 2026
 
-Total Time: 13 hrs 31 mins
+Total Time: 9 hrs 20 mins
 
-JSON         5 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.11 %
-Markdown     3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-Other        2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Markdown     3 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.74 %
+JSON         2 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+Other        2 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.94 %
 ```
 
 <!--END_SECTION:waka-->
