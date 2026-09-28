@@ -152,13 +152,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2026 - To: 27 September 2026
+From: 21 September 2026 - To: 28 September 2026
 
-Total Time: 44 mins
+Total Time: 5 hrs 36 mins
 
-Markdown     19 mins         ████████▓░░░░░░░░░░░░░░░░   35.05 %
-TOML         13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Other        11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 %
+Markdown     2 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.75 %
+Astro        1 hr 31 mins    ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+Other        54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
 ```
 
 <!--END_SECTION:waka-->
