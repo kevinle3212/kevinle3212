@@ -152,13 +152,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2026 - To: 21 October 2026
+From: 15 October 2026 - To: 22 October 2026
 
 Total Time: 49 mins
 
-C          25 mins         █████████▒░░░░░░░░░░░░░░░   36.80 %
-Markdown   24 mins         █████████░░░░░░░░░░░░░░░░   35.58 %
-Other      18 mins         ███████░░░░░░░░░░░░░░░░░░   27.62 %
+Other      1 hr 36 mins    ████████████████▒░░░░░░░░   65.98 %
 ```
 
 <!--END_SECTION:waka-->
